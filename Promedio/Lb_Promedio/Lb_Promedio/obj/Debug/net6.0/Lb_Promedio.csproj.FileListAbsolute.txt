@@ -1,0 +1,11 @@
+C:\Users\Asus\Documents\SENA\Yenny\Promedio\Lb_Promedio\Lb_Promedio\bin\Debug\net6.0\Lb_Promedio.deps.json
+C:\Users\Asus\Documents\SENA\Yenny\Promedio\Lb_Promedio\Lb_Promedio\bin\Debug\net6.0\Lb_Promedio.dll
+C:\Users\Asus\Documents\SENA\Yenny\Promedio\Lb_Promedio\Lb_Promedio\bin\Debug\net6.0\Lb_Promedio.pdb
+C:\Users\Asus\Documents\SENA\Yenny\Promedio\Lb_Promedio\Lb_Promedio\obj\Debug\net6.0\Lb_Promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\SENA\Yenny\Promedio\Lb_Promedio\Lb_Promedio\obj\Debug\net6.0\Lb_Promedio.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\SENA\Yenny\Promedio\Lb_Promedio\Lb_Promedio\obj\Debug\net6.0\Lb_Promedio.AssemblyInfo.cs
+C:\Users\Asus\Documents\SENA\Yenny\Promedio\Lb_Promedio\Lb_Promedio\obj\Debug\net6.0\Lb_Promedio.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\SENA\Yenny\Promedio\Lb_Promedio\Lb_Promedio\obj\Debug\net6.0\Lb_Promedio.dll
+C:\Users\Asus\Documents\SENA\Yenny\Promedio\Lb_Promedio\Lb_Promedio\obj\Debug\net6.0\refint\Lb_Promedio.dll
+C:\Users\Asus\Documents\SENA\Yenny\Promedio\Lb_Promedio\Lb_Promedio\obj\Debug\net6.0\Lb_Promedio.pdb
+C:\Users\Asus\Documents\SENA\Yenny\Promedio\Lb_Promedio\Lb_Promedio\obj\Debug\net6.0\ref\Lb_Promedio.dll

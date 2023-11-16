@@ -1,0 +1,11 @@
+C:\Users\Asus\Documents\SENA\Yenny\Operacion\Lb_Operacion\Lb_Operacion\bin\Debug\net6.0\Lb_Operacion.deps.json
+C:\Users\Asus\Documents\SENA\Yenny\Operacion\Lb_Operacion\Lb_Operacion\bin\Debug\net6.0\Lb_Operacion.dll
+C:\Users\Asus\Documents\SENA\Yenny\Operacion\Lb_Operacion\Lb_Operacion\bin\Debug\net6.0\Lb_Operacion.pdb
+C:\Users\Asus\Documents\SENA\Yenny\Operacion\Lb_Operacion\Lb_Operacion\obj\Debug\net6.0\Lb_Operacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\SENA\Yenny\Operacion\Lb_Operacion\Lb_Operacion\obj\Debug\net6.0\Lb_Operacion.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\SENA\Yenny\Operacion\Lb_Operacion\Lb_Operacion\obj\Debug\net6.0\Lb_Operacion.AssemblyInfo.cs
+C:\Users\Asus\Documents\SENA\Yenny\Operacion\Lb_Operacion\Lb_Operacion\obj\Debug\net6.0\Lb_Operacion.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\SENA\Yenny\Operacion\Lb_Operacion\Lb_Operacion\obj\Debug\net6.0\Lb_Operacion.dll
+C:\Users\Asus\Documents\SENA\Yenny\Operacion\Lb_Operacion\Lb_Operacion\obj\Debug\net6.0\refint\Lb_Operacion.dll
+C:\Users\Asus\Documents\SENA\Yenny\Operacion\Lb_Operacion\Lb_Operacion\obj\Debug\net6.0\Lb_Operacion.pdb
+C:\Users\Asus\Documents\SENA\Yenny\Operacion\Lb_Operacion\Lb_Operacion\obj\Debug\net6.0\ref\Lb_Operacion.dll

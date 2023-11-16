@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Lb_Operacion">
+      <HintPath>..\..\Lb_Operacion\Lb_Operacion\bin\Debug\net6.0\Lb_Operacion.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
