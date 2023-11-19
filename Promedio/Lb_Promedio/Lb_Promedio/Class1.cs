@@ -29,7 +29,7 @@ namespace Lb_Promedio
             }
             try
             {
-                promedio = (num1 + num2 + num3) / 3;
+                promedio = (num1 + num2 + num3) / 3.0;
 
                 return true;
             }

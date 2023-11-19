@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Ap_Operacion",
+    "\\Ap_Operacion\\Ap_Operacion",
     "\\Lb_Operacion",
     "\\Lb_Operacion\\Lb_Operacion"
   ],
-  "SelectedNode": "\\Lb_Operacion\\Lb_Operacion\\Operacion.cs",
+  "SelectedNode": "\\Ap_Operacion\\Ap_Operacion\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }

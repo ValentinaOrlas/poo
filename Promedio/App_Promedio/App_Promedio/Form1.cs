@@ -21,8 +21,8 @@ namespace App_Promedio
             double n1, n2, n3;
             try{
                 n1 = Convert.ToDouble(txtNum1.Text);
-                n2 = Convert.ToDouble(txtNum1.Text);
-                n3 = Convert.ToDouble(txtNum2.Text);
+                n2 = Convert.ToDouble(txtNum2.Text);
+                n3 = Convert.ToDouble(txtNum3.Text);
 
                 //Instancié la lógica de negocio
                 Promedio promedio = new Promedio();
@@ -38,7 +38,7 @@ namespace App_Promedio
                     return;
                 }
 
-                txtResult.Text = promedio.getPromedio.ToString();
+                txtResult.Text = promedio.getPromedio.ToString("0.0");
             }
             catch(Exception x)
             {

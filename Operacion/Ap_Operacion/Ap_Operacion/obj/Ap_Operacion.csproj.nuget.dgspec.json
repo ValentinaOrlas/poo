@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\Documents\\SENA\\Yenny\\Operacion\\Ap_Operacion\\Ap_Operacion\\Ap_Operacion.csproj": {}
+    "C:\\Users\\Asus\\Documents\\SENA\\Yenny\\lógicaNegocio_interfaz\\Operacion\\Ap_Operacion\\Ap_Operacion\\Ap_Operacion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\Documents\\SENA\\Yenny\\Operacion\\Ap_Operacion\\Ap_Operacion\\Ap_Operacion.csproj": {
+    "C:\\Users\\Asus\\Documents\\SENA\\Yenny\\lógicaNegocio_interfaz\\Operacion\\Ap_Operacion\\Ap_Operacion\\Ap_Operacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Documents\\SENA\\Yenny\\Operacion\\Ap_Operacion\\Ap_Operacion\\Ap_Operacion.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Documents\\SENA\\Yenny\\lógicaNegocio_interfaz\\Operacion\\Ap_Operacion\\Ap_Operacion\\Ap_Operacion.csproj",
         "projectName": "Ap_Operacion",
-        "projectPath": "C:\\Users\\Asus\\Documents\\SENA\\Yenny\\Operacion\\Ap_Operacion\\Ap_Operacion\\Ap_Operacion.csproj",
+        "projectPath": "C:\\Users\\Asus\\Documents\\SENA\\Yenny\\lógicaNegocio_interfaz\\Operacion\\Ap_Operacion\\Ap_Operacion\\Ap_Operacion.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\Documents\\SENA\\Yenny\\Operacion\\Ap_Operacion\\Ap_Operacion\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\Documents\\SENA\\Yenny\\lógicaNegocio_interfaz\\Operacion\\Ap_Operacion\\Ap_Operacion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
